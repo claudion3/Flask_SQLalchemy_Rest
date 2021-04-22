@@ -20,7 +20,7 @@ The main aim of this application is to create simple concert API using Python Fl
 
 # Run Server (http://localhst:5000)
 
-python app.py
+python App.py
 
 ## Endpoints
 
